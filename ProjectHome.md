@@ -1,0 +1,1 @@
+EPICS-WFYI is a group of students involved in the EPICS program at Butler University that is creating a digital asset management (DAM) system for Metropolitan Indianapolis Public Broadcasting using PHP and MySQL.
